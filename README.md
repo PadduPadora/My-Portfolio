@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+#  Personal Portfolio Website
 
 ![Repo Size](https://img.shields.io/github/repo-size/aadityaguptaaa/My-Portfolio?color=blue)
 ![Contributors](https://img.shields.io/github/contributors/aadityaguptaaa/My-Portfolio?color=green)
@@ -10,7 +10,7 @@
 A **professional and recruiter-friendly personal portfolio website** showcasing my **skills, projects, and achievements**.  
 Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, modern, and designed to create a strong first impression for recruiters and hiring managers.
 
-
+# 🌐 Live Demo
 
 🔗 **Live Portfolio:** [View Here 🚀](https://aadityaguptaaa.github.io/My-Portfolio/)  
 
