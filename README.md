@@ -10,6 +10,8 @@
 A **professional and recruiter-friendly personal portfolio website** showcasing my **skills, projects, and achievements**.  
 Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, modern, and designed to create a strong first impression for recruiters and hiring managers.
 
+
+
 🔗 **Live Portfolio:** [View Here 🚀](https://aadityaguptaaa.github.io/My-Portfolio/)  
 
 
@@ -56,7 +58,7 @@ cd My-Portfolio
 - 🔍 Explore showcased projects, skills, and achievements  
 - 📩 Use the Contact Section to connect  
 
----
+
 
 ## 🤝 Contributing
 This project is primarily for **personal branding & career showcase**.  
