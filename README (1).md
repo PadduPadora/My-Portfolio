@@ -1,0 +1,82 @@
+# 🌐 Personal Portfolio Website
+
+![Repo Size](https://img.shields.io/github/repo-size/aadityaguptaaa/My-Portfolio?color=blue)
+![Contributors](https://img.shields.io/github/contributors/aadityaguptaaa/My-Portfolio?color=green)
+![Stars](https://img.shields.io/github/stars/aadityaguptaaa/My-Portfolio?style=social)
+![Forks](https://img.shields.io/github/forks/aadityaguptaaa/My-Portfolio?style=social)
+![Issues](https://img.shields.io/github/issues/aadityaguptaaa/My-Portfolio)
+![License](https://img.shields.io/github/license/aadityaguptaaa/My-Portfolio)
+
+A **professional and recruiter-friendly personal portfolio website** showcasing my **skills, projects, and achievements**.  
+Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, modern, and designed to create a strong first impression for recruiters and hiring managers.
+
+🔗 **Live Portfolio:** [View Here 🚀](https://aadityaguptaaa.github.io/My-Portfolio/)  
+📥 **Direct Download:** [Download ZIP](https://github.com/aadityaguptaaa/My-Portfolio/archive/refs/heads/main.zip)
+
+---
+
+## 🚀 Key Features
+- 🎨 Modern Design — Clean, minimal, and professional recruiter-focused UI  
+- 📱 Responsive Layout — Optimized for desktop, tablet, and mobile devices  
+- 💼 Project Showcase — Well-structured portfolio with live project links  
+- 🏆 Skills & Achievements — Highlights technical expertise effectively  
+- 📩 Contact Section — Easy reach-out for opportunities & collaborations  
+
+---
+
+## 🛠️ Tech Stack
+| Category | Technology |
+|----------|------------|
+| Structure | HTML5 |
+| Styling | CSS3 (with animations) |
+| Interactivity | JavaScript (ES6+) |
+| Hosting | GitHub Pages |
+| Version Control | Git & GitHub |
+
+---
+
+## ⚙️ Installation & Setup
+```bash
+git clone https://github.com/aadityaguptaaa/My-Portfolio.git
+cd My-Portfolio
+# Launch index.html in your preferred browser
+```
+
+---
+
+## 🎯 Usage Guide
+- 🌐 Visit the Live Portfolio  
+- 🔍 Explore showcased projects, skills, and achievements  
+- 📩 Use the Contact Section to connect  
+
+---
+
+## 🤝 Contributing
+This project is primarily for **personal branding & career showcase**.  
+However, suggestions & improvements are always welcome!
+
+Steps: Fork → Branch → Commit → Push → Pull Request
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License**
+
+---
+
+## ✨ Future Enhancements
+- 🌗 Dark/Light Mode toggle  
+- 📝 Blog/Articles integration  
+- 📧 Contact Form with Email API integration  
+- 📊 Dynamic GitHub stats integration  
+- ⚡ SEO optimization  
+
+---
+
+## 📬 Connect with Me
+- 🌐 Portfolio: aadityaguptaaa.github.io/My-Portfolio  
+- 💼 LinkedIn: Aaditya Gupta  
+- 📧 Email: your-email@example.com  
+
+---
+💼 Developed by Aaditya Gupta | Software Developer & Full Stack Enthusiast
