@@ -11,7 +11,7 @@ A **professional and recruiter-friendly personal portfolio website** showcasing 
 Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, modern, and designed to create a strong first impression for recruiters and hiring managers.
 
 🔗 **Live Portfolio:** [View Here 🚀](https://aadityaguptaaa.github.io/My-Portfolio/)  
-📥 **Direct Download:** [Download ZIP](https://github.com/aadityaguptaaa/My-Portfolio/archive/refs/heads/main.zip)
+
 
 
 
@@ -44,8 +44,8 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 git clone https://github.com/aadityaguptaaa/My-Portfolio.git
 cd My-Portfolio
 ```
-2.  Open the project folder.\
-3.  Launch `index.html` in any browser.
+2.  Open the project folder.
+4.  Launch `index.html` in any browser.
 
 
 
