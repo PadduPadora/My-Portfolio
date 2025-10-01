@@ -13,7 +13,9 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 🔗 **Live Portfolio:** [View Here 🚀](https://aadityaguptaaa.github.io/My-Portfolio/)  
 📥 **Direct Download:** [Download ZIP](https://github.com/aadityaguptaaa/My-Portfolio/archive/refs/heads/main.zip)
 
----
+
+
+
 
 ## 🚀 Key Features
 - 🎨 Modern Design — Clean, minimal, and professional recruiter-focused UI  
@@ -22,7 +24,8 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 - 🏆 Skills & Achievements — Highlights technical expertise effectively  
 - 📩 Contact Section — Easy reach-out for opportunities & collaborations  
 
----
+
+
 
 ## 🛠️ Tech Stack
 | Category | Technology |
@@ -33,7 +36,8 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 | Hosting | GitHub Pages |
 | Version Control | Git & GitHub |
 
----
+
+
 
 ## ⚙️ Installation & Setup
 ```bash
@@ -63,7 +67,7 @@ Steps: Fork → Branch → Commit → Push → Pull Request
 
 
 ## 📄 License
-This project is licensed under the **MIT License**
+This project is licensed under the [**MIT License**](LICENCE) 
 
 
 
@@ -81,8 +85,8 @@ This project is licensed under the **MIT License**
 
 
 ## 📬 Connect with Me
-- 🌐 Portfolio: aadityaguptaaa.github.io/My-Portfolio  
-- 💼 LinkedIn: Aaditya Gupta  
+- 🌐 Portfolio: [Aaditya](https://aadityaguptaaa.github.io/My-Portfolio/) 
+- 💼 LinkedIn: [Aaditya Gupta](https://www.linkedin.com/in/aadityaxgupta/)
 - 📧 Email: aadityavidit@gmail.com 
 
 
