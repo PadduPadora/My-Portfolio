@@ -10,7 +10,7 @@
 A **professional and recruiter-friendly personal portfolio website** showcasing my **skills, projects, and achievements**.  
 Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, modern, and designed to create a strong first impression for recruiters and hiring managers.
 
-
+<br>
 
 
 ## 🌐 Live Demo
@@ -18,7 +18,7 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 🔗 **Live Portfolio:** [View Here 🚀](https://aadityaguptaaa.github.io/My-Portfolio/)  
 
 
-
+<br>
 
 
 ## 🚀 Key Features
@@ -29,7 +29,7 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 - 📩 Contact Section — Easy reach-out for opportunities & collaborations  
 
 
-
+<br>
 
 ## 🛠️ Tech Stack
 | Category | Technology |
@@ -40,7 +40,7 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 | Hosting | GitHub Pages |
 | Version Control | Git & GitHub |
 
-
+<br>
 
 
 ## ⚙️ Installation & Setup
@@ -53,14 +53,14 @@ cd My-Portfolio
 
 
 
-
+<br>
 
 ## 🎯 Usage Guide
 - 🌐 Visit the Live Portfolio  
 - 🔍 Explore showcased projects, skills, and achievements  
 - 📩 Use the Contact Section to connect  
 
-
+<br>
 
 ## 🤝 Contributing
 This project is primarily for **personal branding & career showcase**.  
@@ -68,14 +68,14 @@ However, suggestions & improvements are always welcome!
 
 Steps: Fork → Branch → Commit → Push → Pull Request
 
-
+<br>
 
 ## 📄 License
 This project is licensed under the [**MIT License**](LICENSE) 
 
 
 
-
+<br>
 
 ## ✨ Future Enhancements
 - 🌗 Dark/Light Mode toggle  
@@ -85,7 +85,7 @@ This project is licensed under the [**MIT License**](LICENSE)
 - ⚡ SEO optimization  
 
 
-
+<br>
 
 
 ## 📬 Connect with Me
