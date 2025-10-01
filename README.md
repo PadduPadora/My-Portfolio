@@ -34,16 +34,15 @@ provide a professional digital presence.
 
 
 
+## 🛠️ Technology Stack  
 
-## 🛠️ Technology Stack
-
-  Component         Technology
-  ----------------- ------------------------
-  Structure         HTML5
-  Styling           CSS3 (with animations)
-  Interactivity     JavaScript (ES6+)
-  Hosting           GitHub Pages
-  Version Control   Git & GitHub
+| Component        | Technology            |
+|------------------|-----------------------|
+| Structure        | HTML5                 |
+| Styling          | CSS3 (with animations)|
+| Interactivity    | JavaScript (ES6+)     |
+| Hosting          | GitHub Pages          |
+| Version Control  | Git & GitHub          |
 
 
 
