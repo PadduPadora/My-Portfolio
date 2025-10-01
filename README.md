@@ -39,10 +39,13 @@ Built with **HTML, CSS, and JavaScript**, the portfolio is fully responsive, mod
 ```bash
 git clone https://github.com/aadityaguptaaa/My-Portfolio.git
 cd My-Portfolio
-# Launch index.html in your preferred browser
 ```
+2.  Open the project folder.\
+3.  Launch `index.html` in any browser.
 
----
+
+
+
 
 ## 🎯 Usage Guide
 - 🌐 Visit the Live Portfolio  
@@ -57,12 +60,14 @@ However, suggestions & improvements are always welcome!
 
 Steps: Fork → Branch → Commit → Push → Pull Request
 
----
+
 
 ## 📄 License
 This project is licensed under the **MIT License**
 
----
+
+
+
 
 ## ✨ Future Enhancements
 - 🌗 Dark/Light Mode toggle  
@@ -71,12 +76,15 @@ This project is licensed under the **MIT License**
 - 📊 Dynamic GitHub stats integration  
 - ⚡ SEO optimization  
 
----
+
+
+
 
 ## 📬 Connect with Me
 - 🌐 Portfolio: aadityaguptaaa.github.io/My-Portfolio  
 - 💼 LinkedIn: Aaditya Gupta  
-- 📧 Email: your-email@example.com  
+- 📧 Email: aadityavidit@gmail.com 
 
----
+
+
 💼 Developed by Aaditya Gupta | Software Developer & Full Stack Enthusiast
