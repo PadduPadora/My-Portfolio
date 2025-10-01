@@ -71,7 +71,7 @@ Steps: Fork → Branch → Commit → Push → Pull Request
 
 
 ## 📄 License
-This project is licensed under the [**MIT License**](LICENCE) 
+This project is licensed under the [**MIT License**](LICENSE) 
 
 
 
