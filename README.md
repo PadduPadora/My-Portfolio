@@ -86,9 +86,9 @@ This project is licensed under the [**MIT License**](LICENCE)
 
 ## 📬 Connect with Me
 - 🌐 Portfolio: [Aaditya](https://aadityaguptaaa.github.io/My-Portfolio/) 
-- 💼 LinkedIn: [Aaditya Gupta](https://www.linkedin.com/in/aadityaxgupta/)
+- 💼 LinkedIn: [AadityaxGupta](https://www.linkedin.com/in/aadityaxgupta/)
 - 📧 Email: aadityavidit@gmail.com 
 
 
 
-💼 Developed by Aaditya Gupta | Software Developer & Full Stack Enthusiast
+💼 Developed by [Aaditya Gupta](https://www.linkedin.com/in/aadityaxgupta/) | Software Developer & Full Stack Enthusiast
